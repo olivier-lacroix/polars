@@ -1,0 +1,6 @@
+﻿polars.eager.series.StringNameSpace.extract
+===========================================
+
+.. currentmodule:: polars.eager.series
+
+.. automethod:: StringNameSpace.extract
